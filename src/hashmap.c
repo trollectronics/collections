@@ -1,5 +1,6 @@
 #include <stdint.h>
-#include <string.h>
+//#include <string.h>
+#include <mem.h>
 #include "error.h"
 #include "hashmap.h"
 

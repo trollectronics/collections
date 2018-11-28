@@ -1,7 +1,9 @@
-#include <stdio.h>
+//#include <stdio.h>
+#include <stddef.h>
 #include <stdbool.h>
-#include <string.h>
+//#include <string.h>
 #include <stdarg.h>
+#include <mem.h>
 #include "error.h"
 #include "stringbuilder.h"
 

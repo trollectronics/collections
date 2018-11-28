@@ -2,6 +2,7 @@
 #define _COLLECTIONS_LINKEDLIST_
 
 #include <stdint.h>
+#include "extratypes.h"
 
 typedef struct LinkedListLink LinkedListLink;
 struct LinkedListLink {

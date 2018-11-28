@@ -3,6 +3,7 @@
 
 #include <stdint.h>
 #include <stddef.h>
+#include "extratypes.h"
 
 typedef struct HashMapItem HashMapItem;
 struct HashMapItem {

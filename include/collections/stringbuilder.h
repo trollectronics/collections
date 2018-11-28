@@ -2,6 +2,7 @@
 #define _COLLECTIONS_STRINGBUILDER_H_
 
 #include <stddef.h>
+#include "extratypes.h"
 
 typedef struct StringBuilder StringBuilder;
 struct StringBuilder {
