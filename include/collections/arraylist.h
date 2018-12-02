@@ -2,7 +2,7 @@
 #define _COLLECTIONS_ARRAYLIST_H_
 
 #include <stddef.h>
-#include "extratypes.h"
+#include <stdlib.h>
 
 typedef struct ArrayList ArrayList;
 struct ArrayList {
